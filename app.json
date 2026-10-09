@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "your-app-name",
-    "slug": "your-app-name",
+    "name": "profileApp",
+    "slug": "profileApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
